@@ -1,17 +1,16 @@
 # FUJIFILM DAILY
 
-Magazine photographique — V1 de test responsive.
+Magazine photographique indépendant consacré à Fujifilm et à son écosystème.
 
-- [Lire le magazine](https://niko31820.github.io/fujifilm-daily/)
+- [Dernière édition et sommaire](https://niko31820.github.io/fujifilm-daily/)
+- [Archives](https://niko31820.github.io/fujifilm-daily/archives/)
 - [Édition du 7 novembre 2026](https://niko31820.github.io/fujifilm-daily/editions/2026-11-07/)
 - [PDF de cette édition](https://niko31820.github.io/fujifilm-daily/pdf/2026-11-07.pdf)
 
-HTML/CSS/JavaScript statiques, sans dépendance distante. Thèmes clair/sombre/système, sommaire, archives et version imprimable.
+HTML/CSS/JavaScript statiques : couverture éditoriale, sommaire, archives, thèmes clair/sombre/système et PDF paginé avec sources cliquables.
 
-Ce dépôt contient uniquement les fichiers destinés à la consultation publique. La préparation des données, les preuves de recherche et les outils de génération restent locaux pour cette V1. Aucune automatisation quotidienne ni diffusion Discord n’est modifiée par cette publication.
+Ce dépôt contient les fichiers destinés à la consultation publique. Le contenu structuré et les outils de préparation sont conservés dans le projet source local. Cette version ne change ni la tâche quotidienne Hermes ni ses notifications Discord.
 
-## Crédits
+Photographies : © Bold Lens Co. et © Ritchie Roesch / Fuji X Weekly. Crédits et sources accompagnent les images. Les photographies appartiennent à leurs auteurs respectifs ; aucune licence libre n’est revendiquée.
 
-Photographies : Bold Lens Co. et Ritchie Roesch / Fuji X Weekly, crédits et liens d’origine dans l’édition. Tous droits réservés aux ayants droit ; aucune licence libre n’est revendiquée. Les autorisations de republication restent à confirmer pour une exploitation durable.
-
-Magazine indépendant, non affilié à FUJIFILM Corporation.
+Magazine non affilié à FUJIFILM Corporation.

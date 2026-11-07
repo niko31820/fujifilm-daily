@@ -6,7 +6,7 @@ Le goût de l’image imparfaite
 
 ![Devanture de café photographiée avec l’objectif Bold Lens BL-32 : un exemple du rendu de cette optique récupérée.](../../assets/images/bl32-cafe.webp)
 
-Photographie : Bold Lens Co. — exemple réalisé avec le BL-32 ; auteur individuel non indiqué. Tous droits réservés. Aperçu local uniquement, autorisation de republication à confirmer. — [Source de l’image](https://boldlens.co/)
+© Bold Lens Co. — photographie réalisée avec le BL-32. — [Source de l’image](https://boldlens.co/)
 
 ## Note de la rédaction
 
@@ -58,7 +58,7 @@ Création — contenu de fond
 
 ![Yellow House, à Bisbee en Arizona, photographiée au Fujifilm X-T5 avec la recette Astia Azure.](../../assets/images/astia-azure.jpg)
 
-Ritchie Roesch / Fuji X Weekly — « Yellow House », Bisbee, Arizona ; X-T5, Astia Azure. Tous droits réservés. Aperçu local uniquement, autorisation de republication à confirmer. — [Source de l’image](https://fujixweekly.com/2026/11/02/5-must-try-astia-recipes/)
+© Ritchie Roesch / Fuji X Weekly — Yellow House, Bisbee · X-T5, Astia Azure. — [Source de l’image](https://fujixweekly.com/2026/11/02/5-must-try-astia-recipes/)
 
 Dans sa sélection du 2 novembre, Ritchie Roesch rassemble cinq recettes fondées sur Astia et met notamment en avant CineStill 400D v2 pour la lumière dorée et les feuillages d’automne.[5] La sélection donne aussi une place à Astia Azure, décrite comme lumineuse, légèrement chaude et intéressante aux heures dorées ou bleues.[5]
 
@@ -72,7 +72,7 @@ Création — contenu de fond
 
 ![Time for Meadow Gold, à Tulsa en Oklahoma, photographiée au Fujifilm X-E5 avec la recette AgfaChrome RSX II 200 Expired.](../../assets/images/agfa-meadow.jpg)
 
-Ritchie Roesch / Fuji X Weekly — « Time for Meadow Gold », Tulsa, Oklahoma ; X-E5, AgfaChrome RSX II 200 Expired. Tous droits réservés. Aperçu local uniquement, autorisation de republication à confirmer. — [Source de l’image](https://fujixweekly.com/2026/10/27/agfachrome-rsx-ii-200-expired-a-film-simulation-recipe-for-5th-gen-fujifilm-cameras/)
+© Ritchie Roesch / Fuji X Weekly — Time for Meadow Gold, Tulsa · X-E5, AgfaChrome RSX II 200 Expired. — [Source de l’image](https://fujixweekly.com/2026/10/27/agfachrome-rsx-ii-200-expired-a-film-simulation-recipe-for-5th-gen-fujifilm-cameras/)
 
 Publié le 27 octobre sur Fuji X Weekly, ce travail de Thomas Schwab, avec une contribution de Ritchie Roesch, cherche un rendu granuleux, désaturé et polyvalent, notamment pour les mois pluvieux.[10] Son nom évoque des exemples de diapositives périmées : l’auteur précise qu’il ne s’agit pas du rendu normal de l’AgfaChrome RSX II 200.[10]
 
